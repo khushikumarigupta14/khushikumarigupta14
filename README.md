@@ -71,7 +71,7 @@ Here are some of the projects I've worked on:
 ---
 
 ## Contributions Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khushikumarigupta14&theme=react-dark)
+([![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushikumarigupta14&theme=dracula)](https://github.com/khushikumarigupta14/github-readme-activity-graph)
 
 ---
 
