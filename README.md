@@ -12,7 +12,7 @@
 - 👀 I’m interested in **MERN Stack Development**.
 - 🌱 I’m currently learning **C# and Data Structures & Algorithms (DSA)**.
 - 💞️ I’m looking to collaborate on **open-source projects**.
-- 📫 How to reach me: **khushi.gupta@example.com** (replace with your email).
+<!-- - 📫 How to reach me: **khushi.gupta@example.com** (replace with your email).-->
 - 😄 Pronouns: **She/Her**.
 <!--- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!** -->
 
