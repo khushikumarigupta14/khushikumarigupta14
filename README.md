@@ -23,15 +23,22 @@ Here are some of the projects I've worked on:
 
 ### 🚀 Featured Projects
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **[Mess Management](https://mess-management.netlify.app/)** | A web app for managing mess schedules, menus, and payments. Built with React and Node.js. | [Live Demo](https://mess-management.netlify.app/) |
-| **[Note Maker](https://note-maker-khushicode.netlify.app/)** | A simple and elegant note-taking app with CRUD functionality. Built with React and local storage. | [Live Demo](https://note-maker-khushicode.netlify.app/) |
-| **[Glassmorphism Calculator](https://glassmorphismcalculator-khushicode.netlify.app/)** | A stylish calculator with a glassmorphism design. Built with HTML, CSS, and JavaScript. | [Live Demo](https://glassmorphismcalculator-khushicode.netlify.app/) |
-| **[Basic Chat Application](https://basicchatapplication-khushicode.netlify.app/)** | A real-time chat application built with React and Firebase. | [Live Demo](https://basicchatapplication-khushicode.netlify.app/) |
-| **[Expense Tracker](https://expensetracker-khushicode.netlify.app/)** | A simple expense tracker to manage your finances. Built with React and Context API. | [Live Demo](https://expensetracker-khushicode.netlify.app/) |
-| **[Poke Docs](https://poke-docs.netlify.app/)** | A Pokémon documentation app using the PokeAPI. Built with React and Tailwind CSS. | [Live Demo](https://poke-docs.netlify.app/) |
-| **[Temperature Converter](https://temperatureconvertor-khushicode.netlify.app/)** | A temperature conversion tool for Celsius, Fahrenheit, and Kelvin. Built with HTML, CSS, and JavaScript. | [Live Demo](https://temperatureconvertor-khushicode.netlify.app/) |
+## 🚀 Featured Projects  
+
+| Project | Description | Live Demo | GitHub Repo |
+|---------|-------------|-----------|-------------|
+| **[Mess Management](https://mess-management.netlify.app/)** | A web app for managing mess schedules, menus, and payments. Built with React and Node.js. | [Live Demo](https://mess-management.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/mess-management-2025) |
+| **[Note Maker](https://note-maker-khushicode.netlify.app/)** | A simple and elegant note-taking app with CRUD functionality. Built with React and local storage. | [Live Demo](https://note-maker-khushicode.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/Note-maker) |
+| **[Glassmorphism Calculator](https://glassmorphismcalculator-khushicode.netlify.app/)** | A stylish calculator with a glassmorphism design. Built with HTML, CSS, and JavaScript. | [Live Demo](https://glassmorphismcalculator-khushicode.netlify.app/) | [GitHub](https://github.com/khushicode/glassmorphism-calculator) |
+| **[Basic Chat Application](https://basicchatapplication-khushicode.netlify.app/)** | A real-time chat application built with React and Firebase. | [Live Demo](https://basicchatapplication-khushicode.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/Basic-chat-application) |
+| **[Expense Tracker](https://expensetracker-khushicode.netlify.app/)** | A simple expense tracker to manage your finances. Built with React and Context API. | [Live Demo](https://expensetracker-khushicode.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/expense-tracker) |
+| **[Poke Docs](https://poke-docs.netlify.app/)** | A Pokémon documentation app using the PokeAPI. Built with React and Tailwind CSS. | [Live Demo](https://poke-docs.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/pokeapi) |
+| **[Temperature Converter](https://temperatureconvertor-khushicode.netlify.app/)** | A temperature conversion tool for Celsius, Fahrenheit, and Kelvin. Built with HTML, CSS, and JavaScript. | [Live Demo](https://temperatureconvertor-khushicode.netlify.app/) | [GitHub](https://github.com/khushicode/temperature-converter) |
+| **[Portfolio Website](https://portfolio-khushicode.netlify.app/)** | Personal portfolio showcasing projects and skills. Built with React and Tailwind CSS. | [Live Demo](https://portfolio-khushicode.netlify.app/) | [GitHub](https://github.com/khushikumarigupta14/portfolio-project) |
+| **[Quote Generator](https://quotegenerator-khushicode.netlify.app/)** | A random quote generator app using an API. Built with HTML, CSS, and JavaScript. | [Live Demo](https://quotegenerator-khushicode.netlify.app/) | [GitHub]() |
+| **[Speed Typing Game](https://speedtyping-khushicode.netlify.app/)** | A speed typing test game to measure typing speed. Built with HTML, CSS, and JavaScript. | [Live Demo](https://speedtyping-khushicode.netlify.app/) | [GitHub]() |
+| **[Color Generator](https://colorgenerator-khushicode.netlify.app/)** | A tool to generate random colors with hex codes. Built with HTML, CSS, and JavaScript. | [Live Demo](https://colorgenerator-khushicode.netlify.app/) | [GitHub]() |
+
 
 ---
 
