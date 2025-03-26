@@ -37,7 +37,9 @@ Here are some of the projects I've worked on:
 | **[Quote Generator](https://quotegenerator-khushicode.netlify.app/)** | A random quote generator app using an API. Built with HTML, CSS, and JavaScript. | [Live Demo](https://quotegenerator-khushicode.netlify.app/) | [GitHub]() |
 | **[Speed Typing Game](https://speedtyping-khushicode.netlify.app/)** | A speed typing test game to measure typing speed. Built with HTML, CSS, and JavaScript. | [Live Demo](https://speedtyping-khushicode.netlify.app/) | [GitHub]() |
 | **[Color Generator](https://colorgenerator-khushicode.netlify.app/)** | A tool to generate random colors with hex codes. Built with HTML, CSS, and JavaScript. | [Live Demo](https://colorgenerator-khushicode.netlify.app/) | [GitHub]() |
-
+| **[number system conversion](https://numbersystem-convertor.netlify.app/)**|  A web tool that allows users to convert numbers between different numeral systems (Binary, Decimal, Octal, and Hexadecimal).|[Live demo](https://numbersystem-convertor.netlify.app/) | [Github](https://github.com/khushikumarigupta14/number-conversion-system)| 
+| **[Advanced todo](https://quadb-advancetodo.netlify.app/)**| A feature-rich task management application that helps users organize their tasks efficiently with advanced functionalities like categorization, deadlines, and status tracking.|[Live demo](https://quadb-advancetodo.netlify.app/) | [Github](https://github.com/khushikumarigupta14/QuadB)| 
+| **[Form submission](https://formsubmission-khushi.netlify.app/)**| A simple and efficient form submission system that collects user inputs and stores data securely. Ideal for contact forms, feedback forms, and user registrations.|[Live demo](https://formsubmission-khushi.netlify.app/) | [Github](https://github.com/khushikumarigupta14/form-submission)| 
 
 ---
 
