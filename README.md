@@ -10,7 +10,7 @@
 
 ## About Me
 - 👀 I’m interested in **MERN Stack Development**.
-- 🌱 I’m currently learning **C# and Data Structures & Algorithms (DSA)**.
+- 🌱 I am Currently, I am focused on **expanding my skills**, contributing to open-source, and **seeking job or internship opportunities** where I can **learn** and **grow** as a **developer**.
 - 💞️ I’m looking to collaborate on **open-source projects**.
 <!-- - 📫 How to reach me: **khushi.gupta@example.com** (replace with your email).-->
 - 😄 Pronouns: **She/Her**.
