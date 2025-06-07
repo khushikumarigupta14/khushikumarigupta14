@@ -2,7 +2,7 @@
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=khushikumarigupta14.khushikumarigupta14)](https://github.com/khushikumarigupta14)-->
 [![GitHub Followers](https://img.shields.io/github/followers/khushikumarigupta14?label=Follow&style=social)](https://github.com/khushikumarigupta14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khushi-kumari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khushi-kumari-gupta/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-khushicode.netlify.app/)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/YourTwitterHandle)-->
 
