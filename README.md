@@ -92,4 +92,4 @@ Here are some of the projects I've worked on:
 
 ---
 
-⭐️ From [khushikumarigupta14](https://github.com/khushikumarigupta14)
+⭐️ From [Khushi Kumari Gupta](https://github.com/khushikumarigupta14)
