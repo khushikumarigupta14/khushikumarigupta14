@@ -96,7 +96,7 @@ Here's a showcase of my work, built with creativity and code:
 </div>
 
 ---
-
+<!--
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -105,9 +105,10 @@ Here's a showcase of my work, built with creativity and code:
   </a>
 </div>
 
----
+--- 
+-->
 
-## 📰 Recent Activity
+<!-- ## 📰 Recent Activity -->
 
 <!--START_SECTION:activity-->
 <!-- GitHub activity will auto-populate here -->
