@@ -21,11 +21,11 @@ I'm a passionate **MERN Stack Developer** dedicated to crafting user-friendly we
 
 ## 🚀 About Me
 - 🎯 **Focus**: Building full-stack applications with **MERN** (MongoDB, Express.js, React, Node.js).
-- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and cloud deployment.
+- 🌱 **Currently Learning**: Advanced React patterns, Node.js, and MongoDB.
 - 💼 **Goals**: Contribute to impactful **open-source projects** and land a **developer role** or **internship** to grow my skills.
 - 🤝 **Open to Collaboration**: Excited to work on open-source MERN or frontend projects.
 - 😄 **Pronouns**: She/Her.
-- ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes! 🧩
+<!-- - ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes! 🧩-->
 
 ---
 
